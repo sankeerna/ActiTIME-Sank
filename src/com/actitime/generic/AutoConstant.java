@@ -3,7 +3,8 @@ package com.actitime.generic;
 public interface AutoConstant 
 {
 	
-	//All the variables in interface are by default static and final
+	//All the variables in interface are by default static and final......
+	//All the variables in interface are by default static and final......
 	String chrome_key = "webdriver.chrome.driver";
 	String chrome_value = "./drivers/chromedriver.exe";
 	String gecko_key = "webdriver.gecko.driver";
